@@ -3,17 +3,6 @@
 
 # In[1]:
 
-
-# import ftplib
-# import os
-# ftp_srv = '196.46.20.7'
-# ftp_usr = 'Access-Oyesanmi'
-# ftp_pass = '2R{HqbO!$<'
-# port=23
-# ftp = ftplib.FTP(ftp_srv,'anonymous')
-# ftp.login(ftp_usr, ftp_pass)
-
-
 # In[3]:
 
 
