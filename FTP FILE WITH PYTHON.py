@@ -101,7 +101,7 @@ import fnmatch
 import os
 import glob
 from datetime import datetime
-path =r'\\abp-filesvr06\general\eric\pos\settlement\INTERSWITCH'+'\\'
+path =r'\general\tudeds\soc\settlement\cards'+'\\'
 for file in sftp.listdir():
      if  file.lower().startswith('access approved daily')and file[-15:-5]==Yesterday_date and file.endswith('.xlsx'):
             print(file)
